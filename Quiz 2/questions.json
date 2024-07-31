@@ -1,0 +1,33 @@
+[
+    {
+      "question": "O que é a Indústria 4.0?",
+      "options": [
+        "A quarta revolução industrial",
+        "Um novo tipo de carro",
+        "Um conceito de marketing",
+        "Um novo software de design"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Qual é um dos principais componentes da Indústria 4.0?",
+      "options": [
+        "Internet das Coisas (IoT)",
+        "Computadores antigos",
+        "Impressoras a laser",
+        "Televisores inteligentes"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Quem liderou a primeira revolução industrial?",
+      "options": [
+        "James Watt",
+        "Henry Ford",
+        "Elon Musk",
+        "Nikola Tesla"
+      ],
+      "correct": 0
+    }
+  ]
+  
